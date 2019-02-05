@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1> HTML List Flowchart <h1>
+<figure>
+<img src="https://github.com/justin-kline/WDD-IDV/blob/master/ListProcess.png" height="607" width="729" />
+<figcaption>Arrows-</br> Green represents progression: Blue represents regression</figcaption>
